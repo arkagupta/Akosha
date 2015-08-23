@@ -10,6 +10,12 @@
   It will ask to enter the Text and then use the same to predict next two words.
 
 #### Requirements:
-  --- Python 2.7 or higher
+1. Python 2.7 or higher
+2. Python Packages :
+  a. NLTK
+  b. Sklearn
+  c. Easygui
+  d. Re
+  e. Pandas
 
 
