@@ -12,6 +12,7 @@
 #### Requirements:
 1. Python 2.7 or higher
 2. Python Packages :
+ * Item 3a
   a. NLTK
   b. Sklearn
   c. Easygui
