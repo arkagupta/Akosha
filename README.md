@@ -13,9 +13,9 @@
 1. Python 2.7 or higher
 2. Python Packages :
  * [**NLTK**](http://www.nltk.org/install.html)
- * Sklearn
- * Easygui
- * Re
- * Pandas
+ * [**Sklearn**](http://scikit-learn.org/stable/install.html)
+ * [**Easygui**](https://pypi.python.org/pypi/easygui/0.97.2)
+ * [**Regular Expression**](https://docs.python.org/2/library/re.html)
+ * [**Pandas**](https://pypi.python.org/pypi/pandas/0.16.2/)
 
 
