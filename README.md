@@ -28,3 +28,4 @@ Since the corpus provided is tweets so expecting a proper english sentence struc
 * 4 words given then use fivegram and then take the five grams as input and run sixgram for next word.
 * Anything greater than length 4 take only the last 4 words into consideration and do as is in 4 words approach.
 
+
