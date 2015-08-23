@@ -1,5 +1,5 @@
-# Akosha
-Task : “American Sniper”
+# H1 Akosha
+# H4 Task : “American Sniper”
 
 Step 1 :
   Run the script Main.py.
