@@ -8,3 +8,8 @@
 ###### Step 2 :
   Run the Model_Run.py file.
   It will ask to enter the Text and then use the same to predict next two words.
+
+#### Requirements:
+⋅⋅* Python 2.7 or higher
+
+
